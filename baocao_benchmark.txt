@@ -1,0 +1,7 @@
+=== BÁO CÁO TỔNG HỢP BENCHMARK 6 MÔ HÌNH AI ===
+Tổng số mẫu: 15000 | Tập Train: 12000 | Tập Test: 3000
+
+NHÓM DỰ BÁO GIÁ TRỊ:
+- LightGBM: MAE = 1.1060 °C, R2 = 0.7948, Latency = 0.000922 ms
+- XGBoost: MAE = 1.1052 °C, R2 = 0.7941, Latency = 0.001064 ms
+- Ridge: MAE = 1.1418 °C, R2 = 0.7913, Latency = 0.000127 ms
